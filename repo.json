@@ -1,0 +1,8 @@
+{
+    "name": "suraj Providers Repository",
+    "description": "Tamil and Indian language Providers",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/S-Suraj/likdev256-tamil-providers/builds/plugins.json"
+    ]
+}
